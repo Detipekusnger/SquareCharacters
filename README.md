@@ -3,7 +3,7 @@
 ## Example:
 - content:Hello World
 - result:˙ㄝ仒乚乚口 ˙ㄠ口卂乚卩
-### Correspondence‌:
+### Mapping:
 * abcdefghijklmnopqrstuvwxyz
 * __↓↓↓__
 * ㄙㄢㄈ卩仒亽ㄎㄝ丄丿乆乚ㄋㄇ口ㄕㄖ卂ㄣㄒㄩㄥㄠㄨㄚㄡ
